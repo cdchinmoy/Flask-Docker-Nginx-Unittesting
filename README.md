@@ -13,9 +13,13 @@ Containerization tools: Docker
 
 Testing Method: Unit testing
 
+===================================
+Docker Command: docker-compose up --build
+
+Test Command: docker exec -it flask python -m unittest
 
 Todo Task
-===============================
+===================================
 List all task:
 --------------
 Method: GET
